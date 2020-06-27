@@ -4,7 +4,7 @@ Blade & Soul: Item Database Website & Tools (ChineseT, Mainly for TW Server)
 
 ## Website
 
-> [https://dbnryanc92.github.io/BNSDataWeb/](https://dbnryanc92.github.io/BNSDataWeb/)
+> [https://bnsdataweb.web.app/](https://bnsdataweb.web.app/)
 
 ## Contributors
 
